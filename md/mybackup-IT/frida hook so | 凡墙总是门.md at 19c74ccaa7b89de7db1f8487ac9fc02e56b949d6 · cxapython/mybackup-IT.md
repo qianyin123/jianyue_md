@@ -1,4 +1,3 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [github.com](https://github.com/cxapython/mybackup-IT/blob/19c74ccaa7b89de7db1f8487ac9fc02e56b949d6/md/frida%20hook%20so%20%7C%20%E5%87%A1%E5%A2%99%E6%80%BB%E6%98%AF%E9%97%A8.md)
 
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [kevinspider.github.io](https://kevinspider.github.io/fridahookso/)
 
