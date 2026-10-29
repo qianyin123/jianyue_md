@@ -23,7 +23,7 @@ https:// passport.xxxxx.com/user/validateAccountAndPassword
 直接搜索关键字getconf很容易找到参数赋值的代码，  
   
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUU3QEV4SYmWeib2LWObfjg5Or1TO3ia5FYFCLx2iaYXo5OjyWaV9IPE70qUwOzBbwQrmCt9TXiblB1heSlVRh2RuqwGtORWQfl9uy4/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=1)
 
   
   
@@ -57,7 +57,7 @@ __JSONP_ztyfoeu_0({"data":{"dt":"W93/vPVL……..net"]},"error":0,"msg":"ok"});
 ##[#2](javascript:;).接下来是这个网址 https://xxxxx/v4/j/up  
   
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUVztXNBHNhJKJuc2S1PePeJRB1eWZYqSHL3qv65TwfibGVIJDc2QJcZYyHa8TNMO0icMusldibqM4LmfvbsZxwDjnPGgP0YYGOp9o/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=2)
 
   
   
@@ -66,7 +66,7 @@ p = result["data"]["ac"]["pn"]，
 这里搜up显然不管用，搜yanzhengma也没戏，搜了下vk，很容易找到参数位置，  
   
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Gv6JExJQjUViblxPKGXXkaep6ibxnRehGiaFL7H1aQjSdcSsibX9Cjeq1HgKJSNgN5F974b1LlUBXCgezIeIbiahPc5LQ2K2L3JlyleBEaZ1DROk/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
 
   
   
@@ -84,13 +84,13 @@ O和s
   
   
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUWfIqIb7SP1Hia7aFEib0wJWia5HLw0gOAqkuBicT7uzjM67SPNdrtibEG13j7ichWwZf97sd6wbIQrDylVzf8rz2TMqQWSYRdP3Plfg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUXOvpmsJRiaHcP5ndZzdP1jb2oGPwNUsLA4icMYFpicnk4kI9fs5BB7uendduzmZ1t9Gg7GVX6wa6VR7o1nicpfGRngCpiccxSu4UuE/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
 
 逐一进入函数发现各个参数的赋值：
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Gv6JExJQjUVfcspeFVib20FcIY13on8vf2hJIpBrgVYKAj0jfX0tgPpiaggLbXvnm0ia0YODLR21cADjHEmRKCuiadZu7JabTYkjLZkcm39tDtk/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=6)
 
   
   
@@ -133,7 +133,7 @@ d=v()也是同样的方法，稍微还原简化后也就300行，所以这个解
 
   
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUUjdj3BC6GQDkLW7FYGJQJk3CjBz3zO6aOVaVDlzcQQVStWrnYeiaDSmd5KJY0PmCE5KibV3epDeBrlGqmShV0ZslotocBGfNXhI/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=7)
 
   
 
@@ -149,55 +149,55 @@ d=v()也是同样的方法，稍微还原简化后也就300行，所以这个解
 
 所以要知道c值，然后看到m函数里面，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUUszqTQbOGTeEiayf7JngPclvJv0RsD4MSP37iaHe189zDTKcPnPBSdu8cJ5LR5ia3YBQCA0CLHbBItlg4kTvoXjj4SRJJW9uK7WU/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=8)
 
   
 
 往上翻一下发现e的赋值跟r有关，而r是传入的参数
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUW4rOTTwZgOwZVoQjAOhSdb2wxIqbKIpg7AE16vBFRyK516dZAANwQlUhicmOTaN0pZ6mVGWNHfqT3T9fT4W0LmrnKzKGGp5ccQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=9)
 
   
 
 然后走一遍看e是如何生成的，接着根据调用堆栈一路往上追到了这里，发现到头了；
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUV9csVGTxUIDe9756Vaj9eHK8qte29FxwM24MyEexCKMOLJPGMOzbLMs7GGPuSbmtiazdsg40EpM2o0mKEc3VLqlBJrmDTLDNlk/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=10)
 
   
 
 f的值是o[“value”]，而o是c的next下一个，然后就找不到这个数组从哪来的了，但多次调试发现他是预设值，所以大概是初始化的时候就已经生成了；然后我某次刷新的时候发现断在这里的r运行多次后会有变化，不知道是多少次，反正挺多的；
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUWnvfm8mVoiaY8VicFib1iat3yibN5ibr3BgGg5dAh9peIYBH4ffcNQFHdp09pSAic8dyEJsU332vBkJZlPtgpNYLbsPCKPiagEqv9wE0Q/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=11)
 
   
 
 然后这里的值函数内运算后会变成数组，然后这个数刚好就是Array(75)其中的一个，就是这么幸运，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Gv6JExJQjUX1PZCtOfF2Vmu3egQotoLwibPyfDt359Jh40vewichM3WqtGnOTxNuUXlibYlibKakqvAj94CGOUCIzFylITP3wqUrjWWA1EicnRbw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=12)
 
   
 
 所以接下来在这里单步调试，发现是在这行代码中变化，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUXzvbxv5Juu3918DRSVO7obM2qty21gbPQXXA9Mmzpeq3UZGr9YicUPapXwEjLkt7CsWdibRpC36wiaZuvtia4nPXM1fUc5euPgArA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=13)
 
   
 
 单步进去看到这里有个变换，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUVFtN4Megngs5oFhLyppbia6LqGwMUib1AH4Ojoo8FfeQqnsBy01iaXfppzyQefceolIqmLicg9tFFQAHomfZ74RPgnvjr87W7p8oY/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=14)
 
   
 
 然后看到上面闭包有三个参数，于是搜了一下t的值254，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Gv6JExJQjUW38P15QJzepWw5r46pmpvSN7zXibpYYEu2VHrHaFpnTicVC8uibVqKHQDb3kKHcgZODHMN5MNL6MGuXHic4Npn1UUtT2nKGat8BC4/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=15)
 
   
 
 结果发现这里三个字刚好对应n,t,r；
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUWYibAImyzKDu6YkqJsN3bGe2rrNnoyFrNGQoc4jBDvyap0ic4J7iaSiceUdShTNEMia4vJC9W0e4qMwcpDNsQYsr1ibAtCiaWxoLorps/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=16)
 
   
 
@@ -211,7 +211,7 @@ f的值是o[“value”]，而o是c的next下一个，然后就找不到这个�
 
 随便测试了两个用例发现没有问题，传入参数需要用到的其他函数需要单独扒；由于这个Kr()里面数组太多了不想一个一个简化分析，不过大致思路都差不多。分析完Kr然后我们回到之前t+o+f的列表，发现其实出发点有点问题，但结果好像不差，其实这个Kr赋值给了t，而o和f是Kr下面两个Vr和Wr的值，稍微还原一下第一个参数值，就能发现Vr中的第一个参数就是之前还原代码n(n)中赋的值，Wr是鼠标滑动相关的值；然后我们来看Wr：因为他是混淆后的代码，所以直接搜混淆，找到了这里，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUWM5AUh3iakcHeYLMuxCaPgjHI4BMaxLrYZVXiaXiar2iaF8Za7JfDib4a13mXLv0HTl0icuicT1DDyiaustXuT0aL1iaT5Oo0b9jztB7wk/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=17)
 
   
 
@@ -225,13 +225,13 @@ f的值是o[“value”]，而o是c的next下一个，然后就找不到这个�
 
 13个参数刚刚好，而且这个Gu很熟悉啊，不就是前面Wm代码里的嘛，创建监听鼠标然后执行开始，后面还有个执行结束，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUUdFqKmTt4eO6MbUibsX6m5CFxFI41NS7Nwsibe4uIQ9698SDe9ORQGufuU83c2miaZ3kZYfBPSFgkpIK0icvYRrCyujvDicUDCicIico/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=18)
 
   
 
 这里就凑齐了所有参数了，经测试发现全部为零也没有任何影响，我就直接拿生成好的三个列表展平为一维列表传入事先还原好的v()中，检查一下v函数有问题没，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUWzj8alI1LM2OVgJznyicAlAxVV7uRkI4Kl3BBWU7mT4kpImrJPgYoT4CCRUYDcJdWyuo36Ek1M6HibamL4OFUltSsGvPHw6ofBE/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=19)
 
   
 
@@ -249,13 +249,13 @@ f的值是o[“value”]，而o是c的next下一个，然后就找不到这个�
 
 ##[#3](javascript:;).终于到第三个了https:// xxxxx/api/v3/get先看参数，这里这个referer其实一直没啥用，然后很多老熟人，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUXz9YLwx1ST022tIzxGPXzIb71vW0yCYqmku9MdYtyHicU9McpEJq2MyfvFnKuK3v71V45hCFy3O5Lz51YJnfNfs7V2I2TqZ9fQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=20)
 
   
 
 那就随便搜一个把'sdkVersion'，找到一个相似度最高的；为啥不搜混淆后的this[y(724)]呢，因为已经搜过了就只有之前那一个；
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUXlVAzCd2gtyiaKPf4xLqJjsK2JjzM8nJxfXbjQEZicUSicZJ9qZy9ntoqQZSLWRWQG296OyAicNgNvMhNujF3RnIMaBkJWhOQkXp0/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=21)
 
   
 
@@ -265,7 +265,7 @@ f的值是o[“value”]，而o是c的next下一个，然后就找不到这个�
 
 id是之前分析过了，zonId和dt在getconf的返回值中和，irToken在up返回值，所以来看fp，发现他是fingerprint赋值，然后搜索fingerprint，找到了他赋值的位置，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Gv6JExJQjUW3Q4k4TnVgFtQWwYS07Whu1na9kk5u74e0icrLaHlO8zS2vvich7r3wVz4XyD0n9upCCiatZUodypYFgL1MLXntR6kX0CZSFPKpg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=22)
 
   
 
@@ -281,7 +281,7 @@ id是之前分析过了，zonId和dt在getconf的返回值中和，irToken在up�
 
 最终获得了值的来源；
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUWWFvdjT2c4hNy9bEdzcJK7Kcw5sAluyAibuAMdUHSNxxOdSqbRGtVICgr09Gx3Se6gzoAKCt1WKAzNTJReSfCmPS4S3W5LtHmw/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=23)
 
   
 
@@ -305,7 +305,7 @@ fp结束再看cb，cb也是一抹多混淆，但在我解的过程中越看越�
 
 其他参数不用怎么管，比较常规，然后测试一下，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Gv6JExJQjUWib1w2iajIQge4LTHY5ovvuoqGX8bicWTHn5Y2jBf1CIrciaYiaV8m4icoFkqLTq2gLQf0n4c86nJQMOAuWicNykicXrUEBNEibMWSmxpM/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=24)
 
   
 
@@ -319,7 +319,7 @@ fp结束再看cb，cb也是一抹多混淆，但在我解的过程中越看越�
 
 ##[#4](javascript:;).接下来是这个网址 https:// xxxxx /api/v3/check
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUWne7ZY61wex0d4zrDnYs914MibkZFhia0DwRO2DzaTpbVxFfXbKa5bKjsDicianqN1RRFDZ7HFTiboQ8VO79cgdxblokRxbiaQEUPB4/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=25)
 
   
 
@@ -327,13 +327,13 @@ fp结束再看cb，cb也是一抹多混淆，但在我解的过程中越看越�
 
 dt、id已知， token是get返回值，cb后面查看发现调用的同一个函数，callback最开始分析过了，主要就是data中的几个参数，然后这里多了个extraData的参数，那就直接搜这个，直接就定位到了这里，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUVWlDCq6U2TcMGG37HxOXk6VKpLls4mfdssGysticzNgGsGicFQKEjsPuiaicgwLPPYgVZKmt25gQPoQKl3ylPeEz2mZQNeTpTLVuQ/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=26)
 
   
 
 查看堆栈找到了data的几个参数，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUXaaIUT794LTHoNXl3buCP6oyia2cmhic8keyd8aniaoaVSbia7TZxtIO3ZRxVeJ45O34Gv7cpzHibDbLZWtAILk2TpjYNWGQeQmHN8/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=27)
 
   
 
@@ -365,7 +365,7 @@ token, str(X_end / 320 * 100)
 
 ext是token和”鼠标按下次数”+“,”+”轨迹列表长度”的拼接，套个加密；好了参数全了，最后测试一下，完美！
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUXRtUJHqdQGrKkknKibNES9jIekEC7BdxCftmttmfskFUlEqJaNMxH2dpS1NJFv5S1fJm77vhVkdeFaJg1ibNtoEYT3Cuf5Hwn7E/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=28)
 
   
 
@@ -381,13 +381,13 @@ ext是token和”鼠标按下次数”+“,”+”轨迹列表长度”的拼接
 
 参数就一个secretStr，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/Gv6JExJQjUUlEJtuZ7l7u02j2rbJp5b8ma7M27t0Segsk9wwvDDE7SAoSxqb3iagabmics38sdtqUYB4MjQ82xJcFkZIofcu9tdQneVK1wuKA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=29)
 
   
 
 就一行，是不是过于简单了点，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUUXgDaY4iaOicEibvuqkCUPSETsibLfRZYTgyuuC2QLicXTicE4bH6Q73bI1xB3eWQHAReIfPBpBryDdibDNhtuRI9YZ5UtSpr4iaJibIA8/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=30)
 
   
 
@@ -401,13 +401,13 @@ ext是token和”鼠标按下次数”+“,”+”轨迹列表长度”的拼接
 
 其实word里面还有validate一个加密参数，搜索关键词通过堆栈跟，还是不难找，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUUKIzvGFvXjVnFF9fV1WlxVjmEeU8jex0ydbv7Abd2iaNjeM3jF6Zd2OyfvAY6cn62B3MpoPL1Yjem6HQ8gwRGVopJ9xy6fmFRA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=31)
 
   
 
 三个参数，第一个是返回的validate，第二个是之前的fp，第三个zoneId，然后核心还是同一个加密函数，但凡多搞几种都没有心情分析了，整体连贯起来尝试，
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/Gv6JExJQjUWdp3NnJkWy9ukS5K6iaPEEusGlfzM1fs5s5mWMeYooy1hAzbWLNljIbVcYxefoaBbXGf9qsliahHtYHTT7icargDvJCN97N6czcg/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=32)
 
   
 
@@ -421,4 +421,4 @@ ext是token和”鼠标按下次数”+“,”+”轨迹列表长度”的拼接
 
   
 
-<table><tbody><tr><td data-colwidth="268" width="268" valign="top" style="word-break: break-all; width: 863px;"><p style="text-align: center;"><img class="rich_pages wxw-img js_img_placeholder wx_img_placeholder" data-aistatus="1" data-imgfileid="504558545" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/Gv6JExJQjUVKl4icL6H19Uyyibj5sXcyXRhC2CicictHcy20TPuz6k8KI0gqQfecfeoOEZSngGNIyvz6ibI0gqibcBKnNXhOpeqybU9tQjWXiaRtfg/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=33" data-type="jpeg" type="inline" data-original-style="null" data-index="35" data-ratio="1.4015518913676042" data-w="1031" src="data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E" _width="677px" style="aspect-ratio: calc(0.713495) / 1; width: 317px !important; height: auto !important;" alt="图片"></p></td><td data-colwidth="268" width="268" valign="top" style="word-break: break-all; width: 863px;"><p style="text-align: center;"><img class="rich_pages wxw-img js_img_placeholder wx_img_placeholder" data-imgfileid="504558080" data-ratio="1.368421052631579" data-s="300,640" data-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gv6JExJQjUWRT04uLSbQ1VblTb1nLKDjzUDXD4aI87NBBFCAnRG39AKV9opm5CsQQeH5pgUtwGKtA3tMPRaQv4hU61MYDR3lkYEocA6RCE4/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=34" data-type="jpeg" data-w="950" data-original-style="null" data-index="36" src="data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E" _width="677px" style="aspect-ratio: calc(0.730769) / 1; width: 317px !important; height: auto !important;" alt="图片"></p></td></tr></tbody></table>
+<table><tbody><tr><td data-colwidth="268" width="268" valign="top" style="word-break: break-all; width: 863px;"><p style="text-align: center;"><img class="rich_pages wxw-img" data-aistatus="1" data-imgfileid="504558545" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_jpg/Gv6JExJQjUVKl4icL6H19Uyyibj5sXcyXRhC2CicictHcy20TPuz6k8KI0gqQfecfeoOEZSngGNIyvz6ibI0gqibcBKnNXhOpeqybU9tQjWXiaRtfg/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=33" data-type="jpeg" type="inline" data-original-style="null" data-index="35" data-ratio="1.4015518913676042" data-w="1031" src="https://mmbiz.qpic.cn/mmbiz_jpg/Gv6JExJQjUVKl4icL6H19Uyyibj5sXcyXRhC2CicictHcy20TPuz6k8KI0gqQfecfeoOEZSngGNIyvz6ibI0gqibcBKnNXhOpeqybU9tQjWXiaRtfg/640?wx_fmt=jpeg&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=33" _width="677px" style="height: auto !important; visibility: visible !important; width: 316.992px !important;" alt="图片" data-report-img-idx="34" data-fail="0"></p></td><td data-colwidth="268" width="268" valign="top" style="word-break: break-all; width: 863px;"><p style="text-align: center;"><img class="rich_pages wxw-img" data-imgfileid="504558080" data-ratio="1.368421052631579" data-s="300,640" data-src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gv6JExJQjUWRT04uLSbQ1VblTb1nLKDjzUDXD4aI87NBBFCAnRG39AKV9opm5CsQQeH5pgUtwGKtA3tMPRaQv4hU61MYDR3lkYEocA6RCE4/640?wx_fmt=jpeg&amp;from=appmsg#imgIndex=34" data-type="jpeg" data-w="950" data-original-style="null" data-index="36" src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/Gv6JExJQjUWRT04uLSbQ1VblTb1nLKDjzUDXD4aI87NBBFCAnRG39AKV9opm5CsQQeH5pgUtwGKtA3tMPRaQv4hU61MYDR3lkYEocA6RCE4/640?wx_fmt=jpeg&amp;from=appmsg&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1#imgIndex=34" _width="677px" style="height: auto !important; visibility: visible !important; width: 316.992px !important;" alt="图片" data-report-img-idx="33" data-fail="0"></p></td></tr></tbody></table>
